@@ -1,2 +1,2 @@
-# Ejercicio_Eureka
+# EjercicioEureka
 Created with CodeSandbox
